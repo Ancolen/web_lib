@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merti\\source\\repos\\library_otomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "library_otomation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "library_otomation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T17:15:34.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "library_otomation\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "library_otomation\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T16:58:01.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Program.cs",
+              "RelativeDocumentMoniker": "library_otomation\\Program.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Program.cs",
+              "RelativeToolTip": "library_otomation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:38:41.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "library_otomation\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Models\\Book.cs",
+              "RelativeToolTip": "library_otomation\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:58:26.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Views\\Library\\Index.cshtml",
+              "RelativeDocumentMoniker": "library_otomation\\Views\\Library\\Index.cshtml",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Views\\Library\\Index.cshtml",
+              "RelativeToolTip": "library_otomation\\Views\\Library\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T15:57:37.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "library_otomation\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Models\\Library.cs",
+              "RelativeToolTip": "library_otomation\\Models\\Library.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:57:30.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "library_otomation\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "library_otomation\\Controllers\\LibraryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:57:18.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
