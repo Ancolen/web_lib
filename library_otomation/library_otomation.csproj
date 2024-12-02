@@ -6,4 +6,19 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\ai_lib.jpg" />
+    <None Include="wwwroot\images\c++ img.jpg" />
+    <None Include="wwwroot\images\java img.jpg" />
+    <None Include="wwwroot\images\lib1.webp" />
+    <None Include="wwwroot\images\menu.png" />
+    <None Include="wwwroot\images\python img.jpg" />
+    <None Include="wwwroot\images\real-lib1.webp" />
+    <None Include="wwwroot\images\real_lib.webp" />
+  </ItemGroup>
+
 </Project>

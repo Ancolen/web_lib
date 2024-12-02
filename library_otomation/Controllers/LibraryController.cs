@@ -17,9 +17,14 @@ namespace library_otomation.Controllers
 
         public ActionResult Index()
         {
+            var books = Lib.listAllBooks();
             return View();
         }
-
+        public ActionResult Index1()
+        {
+            var books = Lib.listAllBooks();
+            return View();
+        }
         [HttpPost]
         public IActionResult Add(int year, string name, string author)
         { 
@@ -28,7 +33,7 @@ namespace library_otomation.Controllers
             TempData["Message"] = "Book added successfully";
             return View("Index");
         }
-
+        [HttpPost]
         public IActionResult Remove(string name)
         {
             Lib.removeBook(name);
@@ -60,7 +65,7 @@ namespace library_otomation.Controllers
         public IActionResult ListAllBooks()
         {
             var books = Lib.listAllBooks();
-            return View("Index");
+            return View(books);
         }
     }
 }

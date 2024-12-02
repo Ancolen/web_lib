@@ -9,36 +9,38 @@
     <link rel="stylesheet" href="~/library_otomation.styles.css" asp-append-version="true" />
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Library" asp-action="Index">library_otomation</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Library" asp-action="Index">Library</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Library" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
+<header>
+
+    <div class="navbar">
+        <div class="logo">
+            <h1>Book<span class="lib">Library</span></h1>
+        </div>
+        <div class="navbar-vertical" id="navt">
+            <nav class="nav">
+                <ul class="ullist">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Catageory</a></li>
+                    <li><a href="#">Latest</a></li>
+                    <li><a href="#">About Us</a></li>
+                </ul>
+
+            </nav>
+            <button class="btn">Add Book</button>
+        </div>
+    </div>
+    
+    <div class="menu-img" onclick="toggle()" id="mi"><img src="images/menu.png"></div>
+</header>
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - library_otomation - <a asp-area="" asp-controller="Library" asp-action="Privacy">Privacy</a>
+    <footer>
+        <div class="footerdiv">
+            <div class="footer-col">
+            </div>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

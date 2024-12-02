@@ -1,34 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\merti\\source\\repos\\library_otomation\\",
+  "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\monster\\desktop\\library\\web_lib\\library_otomation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\monster\\desktop\\library\\web_lib\\library_otomation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\monster\\desktop\\library\\web_lib\\library_otomation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\monster\\desktop\\library\\web_lib\\library_otomation\\views\\library\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\views\\library\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\merti\\source\\repos\\library_otomation\\library_otomation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\monster\\desktop\\library\\web_lib\\library_otomation\\views\\library\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\views\\library\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\monster\\desktop\\library\\web_lib\\library_otomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|c:\\users\\monster\\desktop\\library\\web_lib\\library_otomation\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{899F7061-5AAB-4BE7-9BBF-98FDFA336478}|library_otomation\\library_otomation.csproj|solutionrelative:library_otomation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +70,199 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "library_otomation\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "library_otomation\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "library_otomation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "library_otomation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T17:15:34.57Z",
+              "WhenOpened": "2024-12-01T23:29:48.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "library_otomation\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "library_otomation\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAABAMzMzMzPrvwMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T02:35:44.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "library_otomation\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Models\\Book.cs",
+              "RelativeToolTip": "library_otomation\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:28:36.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "library_otomation\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "library_otomation\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-30T16:24:06.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "library_otomation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "library_otomation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T16:26:00.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\appsettings.json",
+              "RelativeDocumentMoniker": "library_otomation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\appsettings.json",
+              "RelativeToolTip": "library_otomation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T16:18:25.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "library_otomation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "library_otomation\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T16:17:13.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Program.cs",
+              "RelativeDocumentMoniker": "library_otomation\\Program.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Program.cs",
+              "RelativeToolTip": "library_otomation\\Program.cs",
+              "ViewState": "AQIAAAgAAABgzMzMzAwswBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:15:38.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "library_otomation\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "library_otomation\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T16:58:01.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Program.cs",
-              "RelativeDocumentMoniker": "library_otomation\\Program.cs",
-              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Program.cs",
-              "RelativeToolTip": "library_otomation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "library_otomation\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "library_otomation\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAAAQAAAAAbGZmZmbqvx4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T16:38:41.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "library_otomation\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Models\\Book.cs",
-              "RelativeToolTip": "library_otomation\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:58:26.869Z",
+              "WhenOpened": "2024-11-23T16:28:44.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Views\\Library\\Index.cshtml",
-              "RelativeDocumentMoniker": "library_otomation\\Views\\Library\\Index.cshtml",
-              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Views\\Library\\Index.cshtml",
-              "RelativeToolTip": "library_otomation\\Views\\Library\\Index.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAwwF8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T15:57:37.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Library.cs",
-              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Models\\Library.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Models\\Library.cs",
               "RelativeDocumentMoniker": "library_otomation\\Models\\Library.cs",
-              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Models\\Library.cs",
               "RelativeToolTip": "library_otomation\\Models\\Library.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAAvAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T15:57:30.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LibraryController.cs",
-              "DocumentMoniker": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Controllers\\LibraryController.cs",
-              "RelativeDocumentMoniker": "library_otomation\\Controllers\\LibraryController.cs",
-              "ToolTip": "C:\\Users\\merti\\source\\repos\\library_otomation\\library_otomation\\Controllers\\LibraryController.cs",
-              "RelativeToolTip": "library_otomation\\Controllers\\LibraryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:57:18.815Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Views\\Library\\Index.cshtml",
+              "RelativeDocumentMoniker": "library_otomation\\Views\\Library\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Views\\Library\\Index.cshtml",
+              "RelativeToolTip": "library_otomation\\Views\\Library\\Index.cshtml",
+              "ViewState": "AQIAABMAAACAzczMzMwnwAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T16:16:25.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Views\\Library\\Index1.cshtml",
+              "RelativeDocumentMoniker": "library_otomation\\Views\\Library\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Views\\Library\\Index1.cshtml",
+              "RelativeToolTip": "library_otomation\\Views\\Library\\Index1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T01:20:24.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "library_otomation\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "library_otomation\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-01T22:46:31.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Views\\Library\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "library_otomation\\Views\\Library\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\Views\\Library\\Privacy.cshtml",
+              "RelativeToolTip": "library_otomation\\Views\\Library\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T22:49:08.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "library_otomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "library_otomation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AQIAAD4AAACAl5mZmVkqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-01T22:46:50.359Z",
               "EditorCaption": ""
             }
           ]
