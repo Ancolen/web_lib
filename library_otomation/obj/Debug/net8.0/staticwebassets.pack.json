@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\images\\lib1.webp"
     },
     {
+      "Id": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\wwwroot\\images\\libraryBright.jpg",
+      "PackagePath": "staticwebassets\\images\\libraryBright.jpg"
+    },
+    {
       "Id": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\wwwroot\\images\\menu.png",
       "PackagePath": "staticwebassets\\images\\menu.png"
     },

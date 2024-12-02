@@ -1,4 +1,11 @@
-﻿<!DOCTYPE html>
+﻿@using library_otomation.Models
+@model List<Book>
+
+@{
+    ViewData["Title"] = "Library - Book Management";
+}
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -25,32 +32,32 @@
         </div>
     </div>
 </header>
-    <div class="latest-added">
-        <div class="heading">
-            <h1>All Books</h1>
-            <input type="text" class="searchInput" placeholder="Search Book Name" id="myInput">
-        </div>
-        @if (Model != null && Model.Any())
+<div class="latest-added">
+    <div class="heading">
+        <h1>All Books</h1>
+        <input type="text" class="searchInput" placeholder="Search Book Name" id="myInput">
+    </div>
+    @if (Model != null && Model.Any())
+    {
+        @foreach (var book in Model)
         {
-            @foreach (var book in Model)
-            {
-                <div class="latest-col">
-                    @* <div class="limg">
+            <div class="latest-col">
+                @* <div class="limg">
                     <img src="@book.ImagePath" alt="@book.Title" />
                 </div> *@
-                    <div class="info">
-                        <h3>@book.Name</h3>
-                        <p><b>Author:</b> @book.Author</p>
-                        <p><b>Published:</b> @book.Year</p>
-                    </div>
+                <div class="info">
+                    <h3>@book.Name</h3>
+                    <p><b>Author:</b> @book.Author</p>
+                    <p><b>Published:</b> @book.Year</p>
                 </div>
-            }
+            </div>
         }
-        else
-        {
-            <p>No books found.</p>
-        }
-        @*       <div class="latest-row" id="booknamesearch">
+    }
+    else
+    {
+        <p>No books found.</p>
+    }
+    @*       <div class="latest-row" id="booknamesearch">
             <div class="latest-col">
                 <div class="limg"><img src="images/c++ img.jpg"></div>
                 <div class="info">
@@ -75,12 +82,112 @@
                     <p><b>Published:</b> 2019</p>
                 </div>
             </div> *@
-    </div>
+</div>
 
 
-    <script src="lib.js"></script>
+<script src="lib.js"></script>
 
 
 </body>
 
 </html>
+
+
+@*
+@using library_otomation.Models
+   
+   @{
+       ViewData["Title"] = "Library - Book Management";
+   }
+   
+   <h2>@ViewData["Title"]</h2>
+   
+   <!-- Add Book Form -->
+   <h3>Add a Book</h3>
+   <form method="post" asp-action="Add">
+       <div>
+           <label for="name">Book Name:</label>
+           <input type="text" id="name" name="name" required />
+       </div>
+       <div>
+           <label for="author">Author:</label>
+           <input type="text" id="author" name="author" required />
+       </div>
+       <div>
+           <label for="year">Year:</label>
+           <input type="number" id="year" name="year" required />
+       </div>
+       <button type="submit">Add Book</button>
+   </form>
+   @if (TempData["Message"] != null)
+   {
+       <div class="alert alert-success">
+           @TempData["Message"]
+       </div>
+   }
+   <hr />
+   
+   <!-- Search Book Section -->
+   <h3>Search Books</h3>
+   <form method="get" asp-action="SearchByName">
+       <label for="name">Search by Name:</label>
+       <input type="text" id="name" name="name" />
+       <button type="submit">Search</button>
+   </form>
+   
+   <form method="get" asp-action="SearchByAuthor">
+       <label for="author">Search by Author:</label>
+       <input type="text" id="author" name="author" />
+       <button type="submit">Search</button>
+   </form>
+   
+   <form method="get" asp-action="SearchByYear">
+       <label for="year">Search by Year:</label>
+       <input type="number" id="year" name="year" />
+       <button type="submit">Search</button>
+   </form>
+   
+   <hr />
+   
+   <!-- List All Books Section -->
+   <h3>All Books</h3>
+   <a href="@Url.Action("ListAllBooks", "Library")">View All Books</a>
+   
+   <hr />
+   
+   <!-- List of Books -->
+   <h3>Books in Library</h3>
+   @if (Model != null && Model.Any())
+   {
+       <table>
+           <thead>
+               <tr>
+                   <th>Name</th>
+                   <th>Author</th>
+                   <th>Year</th>
+                   <th>Actions</th>
+               </tr>
+           </thead>
+           <tbody>
+               @foreach (var book in Model)
+               {
+                   <tr>
+                       <td>@book.Name</td>
+                       <td>@book.Author</td>
+                       <td>@book.Year</td>
+                       <td>
+                           <!-- Remove Book Button -->
+                           <form method="post" asp-action="Remove" asp-route-name="@book.Name">
+                               <button type="submit">Remove</button>
+                           </form>
+                       </td>
+                   </tr>
+               }
+           </tbody>
+       </table>
+   }
+   else
+   {
+       <p>No books found in the library.</p>
+   }
+*@                   

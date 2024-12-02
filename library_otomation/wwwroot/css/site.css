@@ -4,27 +4,44 @@
     box-sizing: border-box;
 }
 
-.main-page {
-    background-image: url(../images/real_lib.webp);
-    background-repeat: no-repeat;
-    background-size: cover; /* Arkaplanýn tamamen dolmasýný saðlar */
+/* Ensure body and html take full width */
+html, body {
     width: 100%;
-    height: 100vh; /* Sayfanýn tamamýný kapsar */
     margin: 0;
     padding: 0;
-    background-position: center; /* Arkaplaný ortalar */
-    position: relative;
-    overflow: hidden; /* Etrafýndaki taþmalarý engeller */
+    overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
+/* Modify your existing .main-page class */
+.main-page {
+    background-image: url(../images/libraryBright.jpg);
+    background-size: cover; /* Ensure background covers entire area */
+    background-position: center;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 100vw; /* Use viewport width */
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+}
 
+/* Ensure navbar and other elements are full-width */
 .navbar {
     width: 100%;
-    display: flex;
-    background-color: rgb(143, 163, 188);
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+
+/* Modify main content to be full-width */
+.mainrow {
+    width: 100%;
+    max-width: 100%;
+    padding: 0 20px; /* Optional: add some side padding */
 }
 
 .logo {
@@ -149,18 +166,6 @@
         right: 20px;
     }
 }
-
-/* ------------------- Main Content --------------- */
-.mainrow {
-    height: 100%; /* .main-page ile uyumlu olacak þekilde tam ekran yapar */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-    padding: 0;
-    width: 100%;
-}
-
 
 .main-content {
     text-align: center;
@@ -368,7 +373,7 @@ footer {
     bottom: 0;
     left: 0;
     height: 100px;
-    background-color: rosybrown;
+    background-color: cadetblue;
     margin-top: 30px;
     display: flex;
     justify-content: center;

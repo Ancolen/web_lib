@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3htEeKi6Zq7It35/kgA+VZQGJrpLMwjYWayyBhatVd8=",
+  "Hash": "f/K2FLAyne+hgSbwFdowuvUMsKiDDcLMssUcRzTmH7s=",
   "Source": "library_otomation",
   "BasePath": "_content/library_otomation",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\lib1.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\wwwroot\\images\\libraryBright.jpg",
+      "SourceId": "library_otomation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\wwwroot\\",
+      "BasePath": "_content/library_otomation",
+      "RelativePath": "images/libraryBright.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\libraryBright.jpg"
     },
     {
       "Identity": "C:\\Users\\Monster\\Desktop\\library\\web_lib\\library_otomation\\wwwroot\\images\\menu.png",
