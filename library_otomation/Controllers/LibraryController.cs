@@ -25,6 +25,12 @@ namespace library_otomation.Controllers
             var books = Lib.listAllBooks();
             return View();
         }
+
+        public IActionResult AddBookPage()
+        {
+            return View("addBook");
+        }
+
         [HttpPost]
         public IActionResult Add(int year, string name, string author)
         { 

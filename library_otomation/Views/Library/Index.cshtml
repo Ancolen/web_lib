@@ -7,16 +7,16 @@
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - library_otomation</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/library_otomation.styles.css" asp-append-version="true" />
-</head>
-
+    <link rel="stylesheet" href="../wwwroot/css/site.css" />
+    <link rel="stylesheet" href="../Views/Shared/_Layout.cshtml.css" />
+    <!-- ==============  remıxıcons ==========-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.5.0/remixicon.css" />
+    <title>Book Library</title>
+    </head>
 <body>
 <header>
     <div class="main-page">
@@ -32,11 +32,41 @@
         </div>
     </div>
 </header>
-<div class="latest-added">
-    <div class="heading">
-        <h1>All Books</h1>
-        <input type="text" class="searchInput" placeholder="Search Book Name" id="myInput">
-    </div>
+    
+    <!--========MAIN========-->
+    <main class="main">
+        <!--=====HOME=========-->
+        <section class="home section" id="home">
+            <div class="home__container container grid">
+                <div class="home__data">
+                    <h1 class="home__title">
+                        Browse, Add & <br>
+                        Remove Books
+                    </h1>
+                    <p class="home__description">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptates.
+                    </p>
+                    <a href="#" class="button">Explore Books</a>
+                </div>
+                <div class="home__images">
+                    <div class="home__swipper swipper">
+                        <div class="swipper-wrapper">
+                            <article class="home__article swipper-slide ">
+                                <img src="images/java img.jpg" alt="image" class="home__img"/>
+                            </article>
+                            <article class="home__article swipper-slide">
+                                <img src="images/python img.jpg" alt="image" class="home__img"/>
+                            </article>
+                            <article class="home__article swipper-slide">
+                                <img src="images/c++ img.jpg" alt="image" class="home__img"/>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
     @if (Model != null && Model.Any())
     {
         @foreach (var book in Model)
@@ -82,10 +112,11 @@
                     <p><b>Published:</b> 2019</p>
                 </div>
             </div> *@
-</div>
+</>
 
 
 <script src="lib.js"></script>
+<script src="js/swiper-bundle.min.js"></script>
 
 
 </body>
@@ -93,101 +124,3 @@
 </html>
 
 
-@*
-@using library_otomation.Models
-   
-   @{
-       ViewData["Title"] = "Library - Book Management";
-   }
-   
-   <h2>@ViewData["Title"]</h2>
-   
-   <!-- Add Book Form -->
-   <h3>Add a Book</h3>
-   <form method="post" asp-action="Add">
-       <div>
-           <label for="name">Book Name:</label>
-           <input type="text" id="name" name="name" required />
-       </div>
-       <div>
-           <label for="author">Author:</label>
-           <input type="text" id="author" name="author" required />
-       </div>
-       <div>
-           <label for="year">Year:</label>
-           <input type="number" id="year" name="year" required />
-       </div>
-       <button type="submit">Add Book</button>
-   </form>
-   @if (TempData["Message"] != null)
-   {
-       <div class="alert alert-success">
-           @TempData["Message"]
-       </div>
-   }
-   <hr />
-   
-   <!-- Search Book Section -->
-   <h3>Search Books</h3>
-   <form method="get" asp-action="SearchByName">
-       <label for="name">Search by Name:</label>
-       <input type="text" id="name" name="name" />
-       <button type="submit">Search</button>
-   </form>
-   
-   <form method="get" asp-action="SearchByAuthor">
-       <label for="author">Search by Author:</label>
-       <input type="text" id="author" name="author" />
-       <button type="submit">Search</button>
-   </form>
-   
-   <form method="get" asp-action="SearchByYear">
-       <label for="year">Search by Year:</label>
-       <input type="number" id="year" name="year" />
-       <button type="submit">Search</button>
-   </form>
-   
-   <hr />
-   
-   <!-- List All Books Section -->
-   <h3>All Books</h3>
-   <a href="@Url.Action("ListAllBooks", "Library")">View All Books</a>
-   
-   <hr />
-   
-   <!-- List of Books -->
-   <h3>Books in Library</h3>
-   @if (Model != null && Model.Any())
-   {
-       <table>
-           <thead>
-               <tr>
-                   <th>Name</th>
-                   <th>Author</th>
-                   <th>Year</th>
-                   <th>Actions</th>
-               </tr>
-           </thead>
-           <tbody>
-               @foreach (var book in Model)
-               {
-                   <tr>
-                       <td>@book.Name</td>
-                       <td>@book.Author</td>
-                       <td>@book.Year</td>
-                       <td>
-                           <!-- Remove Book Button -->
-                           <form method="post" asp-action="Remove" asp-route-name="@book.Name">
-                               <button type="submit">Remove</button>
-                           </form>
-                       </td>
-                   </tr>
-               }
-           </tbody>
-       </table>
-   }
-   else
-   {
-       <p>No books found in the library.</p>
-   }
-*@                   

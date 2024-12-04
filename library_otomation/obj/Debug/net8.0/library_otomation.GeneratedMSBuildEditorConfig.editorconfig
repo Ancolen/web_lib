@@ -18,12 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Monster\Desktop\library\web_lib\library_otomation
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Monster/Desktop/library/web_lib/library_otomation/Views/Library/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeVxJbmRleC5jc2h0bWw=
+[C:/Users/Monster/Desktop/library/web_lib/library_otomation/Views/Library/AddBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeVxBZGRCb29rLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Monster/Desktop/library/web_lib/library_otomation/Views/Library/Index1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeVxJbmRleDEuY3NodG1s
+[C:/Users/Monster/Desktop/library/web_lib/library_otomation/Views/Library/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Monster/Desktop/library/web_lib/library_otomation/Views/Library/Privacy.cshtml]
